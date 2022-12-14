@@ -2,17 +2,17 @@
 
   ![STATUS](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green?style=for-the-badge) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jhonst/adviceapp/main?style=for-the-badge&color=orange)
 
-  <a href="https://jsa-passwordgenerator.netlify.app/">
-    <img src="https://drive.google.com/uc?export=view&id=12RzuHp0yhin0hRfGS2uxP612NQ1vcosC" alt="Logo" width="300" height="auto">
+  <a href="https://jsa-advice-app.netlify.app/">
+    <img src="https://lh4.googleusercontent.com/jYC8P8cXqtc-OmzxdUOT_bx0tN60LA2XQC-3DLKaldeYeEsJ0AcKmYDsCfiChnFBwTo=w2400" alt="Logo" width="300" height="auto">
   </a>
 
   # My Personal Adviser
 
   With "My Personal Adviser" the user will be able to have a random advice whenever he wants. He can also play the advice in audio from his device.
 
-  #### <a href="https://jsa-passwordgenerator.netlify.app/" target="_blank">View a demo here!</a>
+  #### <a href="https://jsa-advice-app.netlify.app/" target="_blank">View a demo here!</a>
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/74f84f8e-2d74-4169-9e57-5f1c213ebac2/deploy-status)](https://app.netlify.com/sites/jsa-passwordgenerator/deploys)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/0a77bfba-892f-4327-843b-3ad2b0ef796c/deploy-status)](https://app.netlify.com/sites/jsa-advice-app/deploys)
 
   ---
 
