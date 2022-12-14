@@ -39,9 +39,10 @@ const Cardcomponent = () => {
     return (
         <div className="card-content">
             <p>Advice #{adivice.id}</p>
-            <h1>"{adivice.advice}"</h1>
+            <p className="adivice-text">"{adivice.advice}"</p>
             <div className="container-separator">
-                <span className="separator">By Jhon Arteaga</span>
+                <a href="https://github.com/jhonst"><span className="separator">By Jhon Arteaga</span></a>
+                
             </div>
             <div className="caontainer-buttons">
                 <img className="img-button" src="/icons/dices.png" alt="rand" onClick={randomAdvice}/>

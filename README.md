@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ![STATUS](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-green?style=for-the-badge) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jhonst/adviceapp/main?style=for-the-badge&color=orange)
 
-## Available Scripts
+  <a href="https://jsa-passwordgenerator.netlify.app/">
+    <img src="https://drive.google.com/uc?export=view&id=12RzuHp0yhin0hRfGS2uxP612NQ1vcosC" alt="Logo" width="300" height="auto">
+  </a>
 
-In the project directory, you can run:
+  # My Personal Adviser
 
-### `npm start`
+  With "My Personal Adviser" the user will be able to have a random advice whenever he wants. He can also play the advice in audio from his device.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  #### <a href="https://jsa-passwordgenerator.netlify.app/" target="_blank">View a demo here!</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/74f84f8e-2d74-4169-9e57-5f1c213ebac2/deploy-status)](https://app.netlify.com/sites/jsa-passwordgenerator/deploys)
 
-### `npm test`
+  ---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  #### Technologies
 
-### `npm run build`
+  [![React][react.js]][react-url] [![CSS3][CSS3.js]][CSS3-url]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB
+  [react-url]: https://reactjs.org/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  [CSS3.js]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=CSS3&logoColor=1572B6
+  [CSS3-url]: https://www.typescriptlang.org/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ---
 
-### `npm run eject`
+  #### knowledge used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  Calls from external APIs (adviceslip)
+  Calls from browser APIs (SpeechSynthesis)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  #### External resources
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+https://api.adviceslip.com/
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</div>

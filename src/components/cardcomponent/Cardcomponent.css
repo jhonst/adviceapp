@@ -1,14 +1,11 @@
 .card-content {
-    background-color: #CFFF8D;
+    background-color: #E0AAFF;
     border-radius: 15px;
     padding: 30px;
     width: 50%;
     text-align: center;
-}
 
-h1 {
-    margin: 35px;
-    color: #749F82;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 
@@ -21,13 +18,17 @@ h1 {
 
 .separator {
     font-size: 15px;
-    background-color: #CFFF8D;
+    background-color: #E0AAFF;
     border: 2px solid black;
     padding: 0 10px;
 }
 
-h1{
-    font-size: 5rem;
+.adivice-text{
+    margin: 35px;
+    color: #10002B;
+
+    font-size: 3rem;
+    font-weight: bold;
     font-style: italic;
 }
 
@@ -46,4 +47,17 @@ h1{
 
 .img-button:hover{
     transform: scale(1.5);
+}
+
+@media screen and (max-width: 600px) {
+    .card-content {
+        width: 90%;
+    }
+
+    .adivice-text{
+    
+        font-size: 2rem;
+        font-weight: bold;
+        font-style: italic;
+    }
 }
